@@ -1,3 +1,5 @@
+This is Fork of [react-timeago](https://github.com/nmn/react-timeago)
+
 ![React-TimeAgo](http://naman.s3.amazonaws.com/react-timeago.png)
 
 A simple time-ago component for ReactJs.
